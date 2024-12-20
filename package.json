@@ -1,8 +1,12 @@
 {
   "name": "stellar-void",
   "displayName": "Stellar Void",
-  "description": "",
+  "description": "Stellar Void is a unique dark theme for Visual Studio Code that brings a cosmic vibe to your development environment. With its vibrant accents and carefully curated color palette, this theme is designed to enhance focus while adding a touch of the universe to your workspace.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryno9341/stellar-void"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
