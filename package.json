@@ -19,7 +19,7 @@
       {
         "label": "Stellar Void",
         "uiTheme": "vs-dark",
-        "path": "./themes/Stellar Void-color-theme.json"
+        "path": "./themes/stellar-void-color-theme.json"
       }
     ]
   }
